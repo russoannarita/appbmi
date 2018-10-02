@@ -22,3 +22,4 @@ var totale=var totale=(peso/(altezza*altezza))*0.9;
 function cancella(){
  document.getElementById('calcola').innerHTML=" ";
 }
+//ciao a tutti
