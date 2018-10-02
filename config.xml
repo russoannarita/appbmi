@@ -26,5 +26,5 @@
   <access origin"*" />
    <plugin name="cordova.plugin.whitelist" source="npm" />
    <!-- abilita links esterni -->
-  <allow-navigation href="'//*getskeleton.com/*" />
+  <allow-navigation href="//*getskeleton.com/*" />
 </widget>
