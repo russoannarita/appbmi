@@ -1,9 +1,10 @@
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.app.bmi"
     versionCode = "10"
-    version     = "1.0.0" >
+    version     = "1.2." >
 
 <!-- versionCode is optional and Android only -->
 
@@ -11,10 +12,10 @@
 
   <description>
       app per il calcolo del  BMI  dati il peso in kg,
-      l'altezza in metri, il sesso.
+      l'altezza in metri, il sesso, indica come il BMI si posizione nella tabella di riferimento.
   </description>
 
-  <author email="russo.annarita@canossamilano.org">
+  <author href="https://build.phonegap.com"  email="russo.annarita@canossamilano.org">
       Annarita Russo
   </author>
 
