@@ -3,7 +3,7 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.app.bmi"
-    versionCode = "10"
+    versionCode = "12"
     version     = "1.2." >
 
 <!-- versionCode is optional and Android only -->
@@ -27,5 +27,5 @@
   <access origin"*" />
    <plugin name="cordova.plugin.whitelist" source="npm" />
    <!-- abilita links esterni -->
-  <allow-navigation href="//*getskeleton.com/*" />
+  <allow-navigation href="*://*getskeleton.com/*" />
 </widget>
