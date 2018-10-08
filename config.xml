@@ -24,7 +24,7 @@
   <icon src="bmi.png" platform="android" qualifier="mdpi" />
   <icon src="bmi.png" platform="android" qualifier="hdpi" />
 
-  <access origin"*" />
+  <access origin="*" />
    <plugin name="cordova.plugin.whitelist" source="npm" />
    <!-- abilita links esterni -->
   <allow-navigation href="*://*getskeleton.com/*" />
